@@ -15,20 +15,20 @@ Welcome to my GitHub! I’m a PhD-trained biomedical scientist and toxicologist 
 **Tools:** GitHub, VS Code, Jupyter, Streamlit  
 **Domains:** Toxicology, PK/TK, Risk Assessment, Medical Devices  
 
-## Projects
-Bloomberg Hackathon 2025 - 1st Place Team Project Showcase  
+### Projects
+##**Bloomberg Hackathon 2025 - 1st Place Team Project Showcase ** 
 Developed a mobile app addressing justice system compliance gaps through data-driven insights. Led data modeling and backend development using Python, SQL, and data visualization techniques to identify key compliance barriers. Managed a team of 6 developers to build an accessibility-focused community platform that helps users find and rate volunteer opportunities based on location and interests. Presented solution to a panel of industry judges, winning 1st place among 30 competing teams.
 
 
-Employee Satisfaction and Retention Evaluation
+##**Employee Satisfaction and Retention Evaluation**
 **Repo:** [https://github.com/akisharbnsn/CohortB_Career_Analysis)  
 Conducted a data-driven review of HR records to uncover insights into what drives employee retention and performance. The findings of this analysis helped us determine that the company met several key indicators of a healthy, equitable, and productive workplace.
 
-Financial Fraud Analyzer
+##**Financial Fraud Analyzer**
 **Repo:** [https://github.com/Alyssacobbs/FinanceMachineLearningModel)  
 Implemented a complete ML pipeline from EDA to model evaluation to deliver a scalable fraud-detection workflow ready for production integration. Built and tuned ML classifiers (Logistic Regression, Random Forest) to boost fraud precision to 95%+.
 
-Sentiment Sorter using OpenAI
+##**Sentiment Sorter using OpenAI**
 **Repo:** [https://github.com/Alyssacobbs/OpenAI.SentimentSorter)  
 Built a sentiment analysis pipeline using OpenAI’s GPT-4o-mini API to classify 1,000+ product reviews as positive, neutral, negative, or irrelevant. Engineered input validation and error handling to ensure robust API interactions and prevent invalid submissions. Designed a system prompt with context-aware examples to improve model labeling accuracy across diverse review content. Visualized sentiment distribution using Python to uncover trends in user feedback and product satisfaction.
 
