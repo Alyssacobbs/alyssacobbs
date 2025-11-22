@@ -47,5 +47,6 @@ I’m open to:
 
 ## 🤝 Let’s Connect
 **LinkedIn:** (https://www.linkedin.com/in/alyssa-cobbs-phd)
-
+**Email**(alyssa.a.cobbs@gmail.com)
+**Resume**[Cobbs_Alyssa_Resume_.pdf](https://github.com/user-attachments/files/23686729/Cobbs_Alyssa_Resume_.pdf)
 -->
